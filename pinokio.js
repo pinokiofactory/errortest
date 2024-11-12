@@ -9,6 +9,10 @@ module.exports = {
       icon: "fa-solid fa-plug",
       text: "test",
       href: "test.js",
+    }, {
+      icon: "fa-solid fa-rotate-right",
+      text: "update",
+      href: "uipdate.js",
     }]
   }
 }

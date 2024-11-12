@@ -4,7 +4,7 @@ module.exports = {
       "method": "shell.run",
       "params": {
         "venv": "env",
-        "message": "pip install torch==2.3.1 torchvision==0.18.1 torchaudio==2.3.1 xformers",
+        "message": "pip install gradio==5.5.0 uvicorn==0.13.4"
 //        "on": [{
 //          "event": "/error: subprocess-exited-with-error/i",
 //          "debug": true
