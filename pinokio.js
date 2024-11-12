@@ -6,8 +6,8 @@ module.exports = {
   icon: "icon.png",
   menu: async (kernel, info) => {
     return [{
-      icon: "fa-solid fa-plug",
-      text: "test",
+      icon: "fa-solid fa-play",
+      text: "run",
       href: "test.js",
     }, {
       icon: "fa-solid fa-rotate-right",
